@@ -76,6 +76,9 @@
 * [VidDroid](https://github.com/callisto-jovy/Viddroid) - Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
+* [Movies123](https://movies123.gift/) - Movies / TV / Anime / 720p
+* [Movies](https://ww2.movies123.sbs/) - Movies / TV / 10800p
+
 
 ***
 
@@ -85,7 +88,7 @@
 * ⭐ **[Nites](https://w1.nites.is/)** or [Lookmovie.plus](https://lookmovie.plus/) - Movies / TV / 1080p
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
-* ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/), [3](https://wwt.thesoap2day.com/)
 * [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / 1080p
 * [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
 * [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/)  - Movies / TV / 1080p
